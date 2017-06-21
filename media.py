@@ -1,3 +1,5 @@
+import webbrowser
+
 class Video():
     """Class to represent video format media"""
     
@@ -14,4 +16,7 @@ class Movie(Video):
         self.story_line = story_line
         self.poster_image = poster_image
         self. trailer_url = trailer_url
+        
+    def show_trailer(self):
+        webbrowser.open(self.trailer_url)
         
