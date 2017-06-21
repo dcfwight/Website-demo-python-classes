@@ -1,5 +1,5 @@
 import media
-import fresh_tomatoes
+import fresh_tomatoes as ft
 
 # Set up 8 different movies - args are title, duration, story_line, poster_image, and trailer_url
 glengarry = media.Movie('Glengarry GlenRoss', 100, 'the harsh lives of salesmen', \
@@ -26,3 +26,9 @@ matrix = media.Movie("the Matrix", 136, "Dystopian future mixing mind and machin
                     "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",\
                     "https://www.youtube.com/watch?v=tGgCqGm_6Hs")
 
+movies = [glengarry, alien, big_blue, raising_arizona, chasing_great, matrix]
+
+def main():
+   ft.open_movies_page(movies)
+   
+main()
