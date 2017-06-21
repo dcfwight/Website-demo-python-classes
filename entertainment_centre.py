@@ -26,6 +26,7 @@ matrix = media.Movie("the Matrix", 136, "Dystopian future mixing mind and machin
                     "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",\
                     "https://www.youtube.com/watch?v=tGgCqGm_6Hs")
 
+# create movies object that is then used as argument in open_movies_page()
 movies = [glengarry, alien, big_blue, raising_arizona, chasing_great, matrix]
 
 def main():
