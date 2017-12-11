@@ -1,12 +1,13 @@
-# ud036_StarterCode
+# Website utilising Python classes to populate it.
 Source code for a Movie Trailer website.This website will display your favourite movies.
+Initial code was from Udacity UD036
 
 ## Installation
 To install the code, clone this repository to your local computer.
 - Navigate to a suitable folder in your directory
 - Run the following code:
 ```
-https://github.com/dcfwight/ud036_StarterCode.git
+https://github.com/dcfwight/Website-python-classes.git
 ```
 
 ## Python version 3
