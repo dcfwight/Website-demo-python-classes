@@ -7,7 +7,7 @@ To install the code, clone this repository to your local computer.
 - Navigate to a suitable folder in your directory
 - Run the following code:
 ```
-https://github.com/dcfwight/ud036_StarterCode.git
+https://github.com/dcfwight/Website-python-classes.git
 ```
 
 ## Python version 3
