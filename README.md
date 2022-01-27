@@ -2,6 +2,7 @@
 This is a simple project, demonstrating the following:
 1. Use of python classes to display information on Movies and link to YouTube clips.
 2. Initial code was from Udacity UD036
+3. It uses python code to construct and render some html, which is then opened by a browser
 
 ## Cloning / installation
 To install the code, clone this repository to your local computer.
